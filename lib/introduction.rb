@@ -1,9 +1,3 @@
-def introduction
-end
-
-def introduction(Ronald)
-end
-
-def introduction(Ronald)
-  puts "Hi, my name is #{name}."
+def introduction(name)
+  puts "Hi, my name is #{name}"
 end
