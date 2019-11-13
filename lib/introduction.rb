@@ -1,3 +1,2 @@
-name = "Ronald Taylor"
-puts 'Hi, I am #{name}.'
+def introduction
 end
