@@ -1,5 +1,8 @@
 def introduction
 end
 
-def introduction(Ronald)
+def introduction(name)
 end
+
+def introduction(name)
+  puts "Hi,"
